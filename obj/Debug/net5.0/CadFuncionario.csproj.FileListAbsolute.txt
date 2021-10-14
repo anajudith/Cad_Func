@@ -1,0 +1,16 @@
+C:\Users\Ana\OneDrive\Área de Trabalho\CadFuncionario\bin\Debug\net5.0\CadFuncionario.exe
+C:\Users\Ana\OneDrive\Área de Trabalho\CadFuncionario\bin\Debug\net5.0\CadFuncionario.deps.json
+C:\Users\Ana\OneDrive\Área de Trabalho\CadFuncionario\bin\Debug\net5.0\CadFuncionario.runtimeconfig.json
+C:\Users\Ana\OneDrive\Área de Trabalho\CadFuncionario\bin\Debug\net5.0\CadFuncionario.runtimeconfig.dev.json
+C:\Users\Ana\OneDrive\Área de Trabalho\CadFuncionario\bin\Debug\net5.0\CadFuncionario.dll
+C:\Users\Ana\OneDrive\Área de Trabalho\CadFuncionario\bin\Debug\net5.0\ref\CadFuncionario.dll
+C:\Users\Ana\OneDrive\Área de Trabalho\CadFuncionario\bin\Debug\net5.0\CadFuncionario.pdb
+C:\Users\Ana\OneDrive\Área de Trabalho\CadFuncionario\obj\Debug\net5.0\CadFuncionario.csproj.AssemblyReference.cache
+C:\Users\Ana\OneDrive\Área de Trabalho\CadFuncionario\obj\Debug\net5.0\CadFuncionario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ana\OneDrive\Área de Trabalho\CadFuncionario\obj\Debug\net5.0\CadFuncionario.AssemblyInfoInputs.cache
+C:\Users\Ana\OneDrive\Área de Trabalho\CadFuncionario\obj\Debug\net5.0\CadFuncionario.AssemblyInfo.cs
+C:\Users\Ana\OneDrive\Área de Trabalho\CadFuncionario\obj\Debug\net5.0\CadFuncionario.csproj.CoreCompileInputs.cache
+C:\Users\Ana\OneDrive\Área de Trabalho\CadFuncionario\obj\Debug\net5.0\CadFuncionario.dll
+C:\Users\Ana\OneDrive\Área de Trabalho\CadFuncionario\obj\Debug\net5.0\ref\CadFuncionario.dll
+C:\Users\Ana\OneDrive\Área de Trabalho\CadFuncionario\obj\Debug\net5.0\CadFuncionario.pdb
+C:\Users\Ana\OneDrive\Área de Trabalho\CadFuncionario\obj\Debug\net5.0\CadFuncionario.genruntimeconfig.cache
